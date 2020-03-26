@@ -1,2 +1,2 @@
 # page_web
-une page web
+une page web plaisante
